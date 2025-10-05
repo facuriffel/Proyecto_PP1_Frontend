@@ -1,0 +1,23 @@
+
+{
+  "Lunes": [
+    { "img": "../img/arrozConEnsalada.jpg", "nombre": "Pollo con arroz y ensalada", "desc": "Pollo a la plancha con arroz blanco, ensalada fresca de lechuga y tomate y verduras salteadas.", "kcal": 300, "data-dia":"Lunes" },
+    { "img": "../img/guisoLentejas.jpg", "nombre": "Guiso de lentejas", "desc": "Clásico guiso de lentejas, bien casero y sabroso, con verduras, carne y un toque ahumado.", "kcal": 450, "data-dia":"Lunes" }
+  ],
+  "Martes": [
+    { "img": "../img/ensaladaCesar.jpg", "nombre": "Ensalada César", "desc": "Lechuga romana, pollo, crutones y aderezo césar casero.", "kcal": 250, "data-dia":"Martes" },
+    { "img": "../img/guisoLentejas.jpg", "nombre": "Guiso de lentejas", "desc": "Clásico guiso de lentejas, bien casero y sabroso, con verduras, carne y un toque ahumado.", "kcal": 450, "data-dia":"Martes" }
+  ],
+  "Miércoles": [
+    { "img": "../img/pizza.jpg", "nombre": "Pizza integral", "desc": "Pizza con masa integral, salsa de tomate natural y vegetales frescos.", "kcal": 500, "data-dia":"Miercoles"},
+    { "img": "../img/guisoLentejas.jpg", "nombre": "Guiso de lentejas", "desc": "Clásico guiso de lentejas, bien casero y sabroso, con verduras, carne y un toque ahumado.", "kcal": 450, "data-dia":"Miercoles" }
+  ],
+  "Jueves": [
+    { "img": "../img/pastaPesto.jpg", "nombre": "Pasta con salsa pesto", "desc": "Fettuccine con pesto de albahaca, nueces y parmesano.", "kcal": 400, "data-dia":"Jueves" },
+    { "img": "../img/guisoLentejas.jpg", "nombre": "Guiso de lentejas", "desc": "Clásico guiso de lentejas, bien casero y sabroso, con verduras, carne y un toque ahumado.", "kcal": 450, "data-dia":"Jueves" }
+  ],
+  "Viernes": [
+    { "img": "../img/hamburguesa.jpg", "nombre": "Hamburguesa", "desc": "Hamburguesa de carne de vaca y pan integral.", "kcal": 380, "data-dia":"Viernes" },
+    { "img": "../img/guisoLentejas.jpg", "nombre": "Guiso de lentejas", "desc": "Clásico guiso de lentejas, bien casero y sabroso, con verduras, carne y un toque ahumado.", "kcal": 450, "data-dia":"Viernes" }
+  ]
+}

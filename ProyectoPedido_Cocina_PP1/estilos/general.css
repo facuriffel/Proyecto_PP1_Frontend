@@ -1,0 +1,57 @@
+
+
+
+
+body {
+  margin: 0;
+  padding: 0; /* espacio a los costados */
+  display: flex;
+  flex-direction: column;
+  background: rgba(222, 243, 229, 1);
+  min-height: 100vh;
+}
+
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(1, 154, 52, 0.93);
+    font-family: "Julius Sans One", sans-serif;
+    color: white;
+    height: 60px; 
+}
+
+
+.separador{
+  color: white;
+  display: flex;     
+  justify-content: center;  
+  align-items: center;
+  font-family: "Patua One", serif;
+  letter-spacing: 1.5px;
+}
+
+.textoSeparador{
+  display: flex;
+  background-color: rgba(68, 68, 68, 1);
+  width: 400px;
+  height: 50px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  border-radius: 200px;
+}
+
+.diaSeparador{
+  display: flex;
+  justify-content: center;
+  font-family: "Patua One", serif;
+  letter-spacing: 1.5px;
+}
+
+
+
+
+
+    
